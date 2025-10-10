@@ -5,7 +5,7 @@ I enjoy working with **React**, **TypeScript**, and **automation tools** to crea
 
 ---
 
-### 💡 whoami
+### 💡 WhoAmI
 - 💼 Developer & Tech Enthusiast  
 - 🌍 Based in India  
 - ⚡ Building things that connect ideas, design, and impact  
@@ -14,11 +14,10 @@ I enjoy working with **React**, **TypeScript**, and **automation tools** to crea
 
 ---
 
-### 🌐 ping
+### 🌐 Ping
 - 💻 [Portfolio](https://your-portfolio-link.com)
-- 💬 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐦 [Twitter / X](https://x.com/yourhandle)
-- 📫 [Email Me](mailto:your@email.com)
+- 💬 [LinkedIn](https://www.linkedin.com/in/shamanth-ms-11a1391b/)
+- 📫 [Email Me](shamanthms1@gmail.com)
 
 ---
 
