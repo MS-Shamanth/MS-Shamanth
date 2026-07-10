@@ -276,6 +276,12 @@ My background includes **machine learning projects, full-stack applications, hac
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MS-Shamanth/MS-Shamanth/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
+
+---
+
 ## Contribution Activity
 
 <div align="center">
