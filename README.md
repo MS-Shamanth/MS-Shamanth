@@ -223,18 +223,6 @@ My background includes **machine learning projects, full-stack applications, hac
 </details>
 
 ---
-## Achievements
-
-| Recognition | Details |
-|---|---|
-| TiE U Global Hackathon 2024 | Runner-Up |
-| Infosys Global Hackathon 2025 | Finalist |
-| LeetCode | 350+ problems solved |
-| GeeksforGeeks | 300+ problems solved |
-| HackerRank | 5-Star in Java, Python, C, and SQL |
-| CodeChef | 200+ problems solved |
-
----
 
 ## Certifications
 
