@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=960&lines=Shamanth+M+S;AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;AWS+Certified+AI+Practitioner;Competitive+Programmer+%7C+Builder" alt="Typing SVG" />
 
 <br/>
 
@@ -67,7 +66,7 @@ My background includes **machine learning projects, full-stack applications, hac
 ### Backend & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb,fastapi&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,fastapi&theme=dark"/>
 </p>
 
 ### AI / ML
@@ -79,7 +78,6 @@ My background includes **machine learning projects, full-stack applications, hac
 ### Cloud, DevOps & Tooling
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode&theme=dark"/>
 </p>
 
 ---
@@ -234,21 +232,17 @@ My background includes **machine learning projects, full-stack applications, hac
 
 ---
 
-## GitHub Analytics
 
-<div align="center">
+## 📊 GitHub Analytics
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=MS-Shamanth&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false&include_all_commits=true&count_private=true" />
-&nbsp;
-<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=MS-Shamanth&theme=tokyonight&border_radius=10&hide_border=false" />
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MS-Shamanth&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=MS-Shamanth&theme=tokyonight&hide_border=true"/>
+</p>
 
-<br/><br/>
-
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MS-Shamanth&layout=compact&theme=tokyonight&border_radius=10&hide_border=false&langs_count=8" />
-
-</div>
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MS-Shamanth&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ## Contribution Activity
 
