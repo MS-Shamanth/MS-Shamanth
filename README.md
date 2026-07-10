@@ -266,13 +266,13 @@ My background includes **machine learning projects, full-stack applications, hac
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=MS-Shamanth&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false&include_all_commits=true&count_private=true" />
-&nbsp;
-<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=MS-Shamanth&theme=tokyonight&border_radius=10&hide_border=false" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MS-Shamanth&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&border_radius=10" />
 
-<br/><br/>
+<img width="49%" src="https://streak-stats.demolab.com?user=MS-Shamanth&theme=tokyonight&border_radius=10" />
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MS-Shamanth&layout=compact&theme=tokyonight&border_radius=10&hide_border=false&langs_count=8" />
+<br><br>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MS-Shamanth&layout=compact&theme=tokyonight&langs_count=8&border_radius=10" />
 
 </div>
 
