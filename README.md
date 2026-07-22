@@ -23,6 +23,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
+  <a href="https://ms-shamanth.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Site-A78BFA?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
   <a href="mailto:shamanthms1@gmail.com">
     <img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
